@@ -1,1 +1,26 @@
-😀️
+😀️<pre>543  git init
+  544  ls -a
+  545  ls
+  546  git status
+  547  git add readme.txt 
+  548  git status
+  549  git commit -m &quot;Adição do arquivo readme&quot;
+  550  git status
+  551  git add -A
+  552  git status
+  553  git add -A
+  554  git diff
+  555  git status
+  556  git commit &quot;Mais um novo arquivo teste&quot;
+  557  git add .
+  558  git status
+  559  git commit &quot;Mais um novo arquivo teste&quot;
+  560  git commit -m &quot;Mais um novo arquivo teste&quot;
+  561  git status
+  562  git diff
+  563  git log
+  564  clear
+  565  git log
+  566  git log --oneline
+  567  history
+</pre>
